@@ -1,6 +1,6 @@
-# AI Career Copilot (fixed project copy)
 
-## Run in VS Code on Windows
+AI-resume Enhancer
+
 
 1. Open this `resume` folder in VS Code.
 2. In the terminal, create a fresh virtual environment (do not copy the old `venv`):
